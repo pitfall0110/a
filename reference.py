@@ -483,5 +483,5 @@
         "id": 97,
         "event_title": "Will Miami have a white Christmas?",
         "score": 0.12345678
-    },
+    }
 ]
